@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naaafis
-- 👀 I’m interested in offensive threat hunting and ML applications in Cyber space
-- 🌱 I’m currently learning malware analysis 
-- 💞️ I’m looking to collaborate on controls and ML related applications
+- 👀 I’m interested in Autonomous Driving tasks and applications of LLM agents to complete complex tasks
+- 🌱 I’m currently learning cooperative self driving frameworks
+- 💞️ I’m looking to collaborate on controls and Robotics/ML related applications
 - 📫 How to reach me: nafis216@gmail.com
 
 <!---
